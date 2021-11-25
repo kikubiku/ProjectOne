@@ -9,7 +9,7 @@ public class DemoOne {
 	}
 	public static void addNum(int a , int b) {
 		
-		System.out.println(" Adding a and b");
+		System.out.println(a+ b);
 	}
 
 }
